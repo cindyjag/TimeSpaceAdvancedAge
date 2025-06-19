@@ -16,5 +16,7 @@ Repository Contents
         2D_3D.R: Script for connection 2D and 3D stimuli tasks.
         tests.R: Contains various statistical tests.
         plots.R: Generates plots for data visualization.
+        tsi_irr_time.R: Calculates the space-on-time effect
+        tsi_irr_space.R: Calculates the time-on-space effect
     Additional Files:
         README.md: This README file.
